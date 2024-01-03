@@ -1,6 +1,7 @@
-## Hi there 👋
+## CS/MATH 113 Discrete Mathematics - Spring 2024
+Hi there 👋
 
-CS/MATH 113 Discrete Mathematics - Spring 2024
+
 
 <!--
 
